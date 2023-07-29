@@ -13,4 +13,4 @@
 - These guarantees are provided using memory barriers which may result in invalidating or flushing caches
 
 
-![Alt text](image-27.png)
+![Alt text](./images/image-27.png)

@@ -1,6 +1,6 @@
 # Minimizing Network Transfer Latency
 
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)
 
 - persistent connection - browser can keep connection live
 

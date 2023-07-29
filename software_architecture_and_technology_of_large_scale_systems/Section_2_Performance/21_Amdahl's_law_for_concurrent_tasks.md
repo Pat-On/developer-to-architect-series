@@ -1,10 +1,10 @@
 # Amdahl's Law for concurrent tasks
 
-![Alt text](image-16.png)
+![Alt text](./images/image-16.png)
 
 
 
-![Alt text](image-17.png)
+![Alt text](./images/image-17.png)
 
 parallel -> serial -> parallel
 

@@ -1,3 +1,3 @@
 # Sample System
 
-![Alt text](image.png)
+![Alt text](./images/image.png)

@@ -1,4 +1,4 @@
 # System Architecture for Performance
 
-![Alt text](image-28.png)
+![Alt text](./images/image-28.png)
 

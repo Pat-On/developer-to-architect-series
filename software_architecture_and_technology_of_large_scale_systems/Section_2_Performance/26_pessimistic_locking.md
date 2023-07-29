@@ -5,4 +5,4 @@
 - may result in deadlock
   - one of the participating thread is backed up by receiving an exception
 
-![Alt text](image-22.png)
+![Alt text](./images/image-22.png)

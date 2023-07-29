@@ -1,6 +1,6 @@
 # Shared Resource Contention
 
-![Alt text](image-19.png)
+![Alt text](./images/image-19.png)
 
 
 

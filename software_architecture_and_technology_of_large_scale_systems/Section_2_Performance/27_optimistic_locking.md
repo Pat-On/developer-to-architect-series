@@ -5,4 +5,4 @@
 - may result in starvation
   - switch to pessimistic locking
 
-![Alt text](image-23.png)
+![Alt text](./images/image-23.png)

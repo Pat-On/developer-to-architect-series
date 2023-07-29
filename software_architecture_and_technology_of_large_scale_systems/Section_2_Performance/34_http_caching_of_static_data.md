@@ -12,5 +12,5 @@
   - `ETAG`: a hash code for indicating version of a resource
     - Invalidates previous version cache
 
-![Alt text](image-30.png)
+![Alt text](./images/image-30.png)
 

@@ -7,7 +7,7 @@
     - large sized objects results in cache getting full to soon causing evictions
 
 
-![Alt text](image-33.png)
+![Alt text](./images/image-33.png)
 
 - Cache Invalidation & Cache Inconsistency 
   - Requires Update/Deletion of Cached value upon update

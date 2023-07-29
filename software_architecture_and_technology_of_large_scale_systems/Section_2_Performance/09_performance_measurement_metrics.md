@@ -16,7 +16,7 @@ Resource Saturation
 - affects - hardware capacity required
 - desired - efficient utilization of all system resources
 
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 
 Tail latency is an indication of queueing of requests
 - get worse with higher workloads

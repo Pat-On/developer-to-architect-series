@@ -1,6 +1,6 @@
 # Minimizing Memory Access Latency
 
-![Alt text](image-7.png)
+![Alt text](./images/image-7.png)
 
 - Avoid Memory Bloat - small process that use little memory
   - smaller code base
@@ -14,7 +14,7 @@
     - (pause step)
 
 
-![Alt text](image-8.png)
+![Alt text](./images/image-8.png)
 - Normalization 
   - avoid duplicated data
   - save the buffer memory and minimize the size of db

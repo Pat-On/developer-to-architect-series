@@ -12,7 +12,7 @@
     - latency
     - capacity
   
-  ![Alt text](image-2.png)
+  ![Alt text](./images/image-2.png)
 
   in case of `batch processing` we are only talking only about throughput
 

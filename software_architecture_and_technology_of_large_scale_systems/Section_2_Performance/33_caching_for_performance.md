@@ -1,7 +1,7 @@
 # Caching
 
 Different points where we can use caching
-![Alt text](image-29.png)
+![Alt text](./images/image-29.png)
 
 
 - `object cache` - not specific to use - general
