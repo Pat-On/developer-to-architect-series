@@ -7,3 +7,8 @@ These repo is related to `Developer to Architect` series that contain two course
     - This course is about theory and the design
 2. Implementing Software Architecture of a Large-Scale Systems
     - Hands-on - project
+
+
+## Interesting topics from the course:
+- Binary Protocols vs Test Protocols
+https://stackoverflow.com/questions/2645009/binary-protocols-v-text-protocols
