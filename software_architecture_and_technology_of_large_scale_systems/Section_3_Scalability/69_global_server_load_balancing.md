@@ -11,4 +11,4 @@
     - multi region availability
   - disaster recovery
 
-![Alt text](image-30.png)
+![Alt text](./images/image-30.png)

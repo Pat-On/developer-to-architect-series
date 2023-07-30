@@ -9,4 +9,4 @@
   - higher scalability
   - higher reliability
 
-![Alt text](image-39.png)
+![Alt text](./images/image-39.png)

@@ -5,6 +5,6 @@
   - compensation itself can fail. Should be able to restart itself and retry
 - Asynchronous processing for reliability
 
-![Alt text](image-37.png)
+![Alt text](./images/image-37.png)
 
-![Alt text](image-38.png)
+![Alt text](./images/image-38.png)

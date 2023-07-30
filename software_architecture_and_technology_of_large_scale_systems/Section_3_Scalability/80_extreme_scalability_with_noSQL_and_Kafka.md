@@ -14,4 +14,4 @@
 - Kafka
   - Horizontal partitioning of topics
 
-![Alt text](image-41.png)
+![Alt text](./images/image-41.png)

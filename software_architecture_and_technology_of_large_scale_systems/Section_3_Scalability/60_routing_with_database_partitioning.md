@@ -1,6 +1,6 @@
 # Routing with Database partitioning
 
-![Alt text](image-21.png)
+![Alt text](./images/image-21.png)
 
 router is component of database for example in the DB
 router is cluster aware

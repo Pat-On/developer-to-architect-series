@@ -9,5 +9,5 @@
   - low or zero TTLs can create a very high load on DNS
 
 
-![Alt text](image-29.png)
+![Alt text](./images/image-29.png)
 

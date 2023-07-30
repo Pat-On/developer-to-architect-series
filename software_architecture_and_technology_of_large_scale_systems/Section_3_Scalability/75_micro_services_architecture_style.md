@@ -12,4 +12,4 @@
   - transaction failures
   - transaction rollbacks
 
-![Alt text](image-35.png)
+![Alt text](./images/image-35.png)

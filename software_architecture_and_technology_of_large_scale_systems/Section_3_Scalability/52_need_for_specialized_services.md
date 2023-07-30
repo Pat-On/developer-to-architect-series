@@ -1,6 +1,6 @@
 # Need For Specialized Services
 
-![Alt text](image-11.png)
+![Alt text](./images/image-11.png)
 
 - Scalability issue
   - all this services modules are bundled together

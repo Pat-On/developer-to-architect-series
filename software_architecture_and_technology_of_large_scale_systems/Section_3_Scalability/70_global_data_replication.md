@@ -7,4 +7,4 @@
 - Failover is quick
 - some data loss is a possibility
 
-![Alt text](image-31.png)
+![Alt text](./images/image-31.png)

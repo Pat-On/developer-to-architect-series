@@ -1,3 +1,3 @@
 # System For Scalability Discussion
 
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)

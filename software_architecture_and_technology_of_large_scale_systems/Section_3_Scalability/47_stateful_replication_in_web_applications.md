@@ -1,5 +1,5 @@
 # Web Stateful Replication
-![Alt text](image-4.png)
+![Alt text](./images/image-4.png)
 
 - the challenge is to point user to the same server where is cached data 
   - sticky session
@@ -19,4 +19,4 @@
 
 
 We can duplicated data between the nodes but this solution is very difficult to implement
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)

@@ -1,5 +1,5 @@
 # Micro-Service Motivation
 
 
-![Alt text](image-33.png)
+![Alt text](./images/image-33.png)
 

@@ -2,7 +2,7 @@
 
 - Micro-Services completely decouples services and databases for higher scalability
 
-![Alt text](image-16.png)
+![Alt text](./images/image-16.png)
 
 - asynchronous processing - `order queue` part
 
@@ -13,7 +13,7 @@
 
 
 
-![Alt text](image-17.png)
+![Alt text](./images/image-17.png)
 
 - note:
   - can no longer do inter service ACID transactions and need to deal with eventual consistency

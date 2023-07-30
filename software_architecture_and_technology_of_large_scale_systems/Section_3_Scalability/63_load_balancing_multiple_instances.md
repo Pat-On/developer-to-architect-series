@@ -3,5 +3,5 @@
 - Single IP address for a Component
 - Load Distribution
 
-![Alt text](image-22.png)
+![Alt text](./images/image-22.png)
 

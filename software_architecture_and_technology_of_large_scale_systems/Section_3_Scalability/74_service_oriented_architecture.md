@@ -12,4 +12,4 @@
   - Service development may be independent but not deployment
   - single database has scalability limitations
 
-![Alt text](image-34.png)
+![Alt text](./images/image-34.png)

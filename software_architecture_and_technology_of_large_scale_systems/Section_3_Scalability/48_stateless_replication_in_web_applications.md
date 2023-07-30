@@ -2,7 +2,7 @@
 
 - For higher scalability at the expense of higher latency
 
-![Alt text](image-6.png)
+![Alt text](./images/image-6.png)
 
 
 issues
@@ -10,7 +10,7 @@ issues
 
 
 How to overcome the latency issue:
-![Alt text](image-7.png)
+![Alt text](./images/image-7.png)
 
 You can store data in the cookies to
 - cookies has as well as size limitation
