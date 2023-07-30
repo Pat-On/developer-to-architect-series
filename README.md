@@ -16,3 +16,5 @@ https://stackoverflow.com/questions/2645009/binary-protocols-v-text-protocols
 https://condusiv.com/sequential-io-always-outperforms-random-io-on-hard-disk-drives-or-ssds/
 - Reverse Proxy vs Load Balancer
 https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
+- ACID Transactions
+https://www.databricks.com/glossary/acid-transactions
