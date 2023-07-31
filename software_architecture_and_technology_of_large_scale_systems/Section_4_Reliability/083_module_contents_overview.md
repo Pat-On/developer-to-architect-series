@@ -1,0 +1,22 @@
+# System Reliability
+
+- Reliability
+  - Availability, Reliability
+  - Fault Tolerance
+  - Partial Failures
+- Designing Fault Tolerance
+  - Redundancy
+    - hot
+    - warm
+    - cold
+  - Fault Detection
+    - Health Checks,
+    - Monitoring
+  - Recovery
+    - Stateless
+    - stateful
+- System Stability
+  - Timeouts
+  - circuit Breaks
+  - fail fast
+  - shed load
