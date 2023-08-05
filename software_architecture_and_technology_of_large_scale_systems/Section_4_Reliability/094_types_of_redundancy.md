@@ -10,5 +10,5 @@
   - Spare nodes are brought up only on a failover
   - it is not a high availability option
 
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)
 

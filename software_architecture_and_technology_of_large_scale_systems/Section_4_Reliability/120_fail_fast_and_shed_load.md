@@ -1,5 +1,5 @@
 # Fail Fast and Shed Load
 
-![Alt text](image-32.png)
+![Alt text](./images/image-32.png)
 
-![Alt text](image-31.png)
+![Alt text](./images/image-31.png)

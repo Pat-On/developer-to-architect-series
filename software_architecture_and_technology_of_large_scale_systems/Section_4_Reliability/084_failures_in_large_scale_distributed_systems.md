@@ -10,4 +10,4 @@
 - increased chance of partial failures
 - partial failures can lead to complete system failures
 
-![Alt text](image.png)
+![Alt text](./images/image.png)

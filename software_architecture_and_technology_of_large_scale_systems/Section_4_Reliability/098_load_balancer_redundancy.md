@@ -1,6 +1,6 @@
 # Load Balancer Redundancy
 
-![Alt text](image-9.png)
+![Alt text](./images/image-9.png)
 
 We provide secondary and primary load balancer
 

@@ -10,4 +10,4 @@
     - error msg
   - resume when stress dissipates
 
-![Alt text](image-30.png)
+![Alt text](./images/image-30.png)

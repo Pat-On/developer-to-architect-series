@@ -1,4 +1,4 @@
 # Database Recovery - Hot Standby
 
-![Alt text](image-24.png)
+![Alt text](./images/image-24.png)
 

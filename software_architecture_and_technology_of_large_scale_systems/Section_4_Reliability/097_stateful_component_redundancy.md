@@ -1,6 +1,6 @@
 # Redundancy for Stateful Components
 
-![Alt text](image-8.png)
+![Alt text](./images/image-8.png)
 
 databases
 - primary / secondary

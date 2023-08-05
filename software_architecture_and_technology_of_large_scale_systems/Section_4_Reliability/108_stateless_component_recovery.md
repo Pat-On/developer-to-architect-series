@@ -8,4 +8,4 @@
   - terminate unhealthy instances if not dead already
   - launch a new instance
 
-![Alt text](image-21.png)
+![Alt text](./images/image-21.png)

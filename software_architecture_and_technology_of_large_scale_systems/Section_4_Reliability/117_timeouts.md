@@ -7,4 +7,4 @@
   - Averts cascading failures
 
 
-![Alt text](image-28.png)
+![Alt text](./images/image-28.png)

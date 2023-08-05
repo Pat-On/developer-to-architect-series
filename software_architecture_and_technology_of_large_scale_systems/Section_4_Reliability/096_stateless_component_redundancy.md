@@ -1,3 +1,3 @@
 # Redundancy for Stateless Components
 
-![Alt text](image-7.png)
+![Alt text](./images/image-7.png)

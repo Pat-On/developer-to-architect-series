@@ -12,4 +12,4 @@
   - at least once guarantee instead of exactly one
 
 
-![Alt text](image-29.png)
+![Alt text](./images/image-29.png)
