@@ -1,0 +1,21 @@
+# Summary
+
+- Highly Available and Highly Reliable Systems are Fault-Tolerant by design
+- Fault tolerance is achieved by:
+  - provisioning redundancy for every SPOF
+    - hot/active
+    - warm/passive
+    - cold/backups
+  - building automated mechanism to detect faults
+  - building automated failover mechanism to recover from faults
+    - failover of stateless components
+    - failover of stateful components
+- Stability patterns
+  - clients:
+    - timeouts
+    - retries
+    - circuit breaker
+  - server
+    - fail fast
+    - shed load
+    - back pressure
