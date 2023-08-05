@@ -18,3 +18,6 @@ https://condusiv.com/sequential-io-always-outperforms-random-io-on-hard-disk-dri
 https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
 - ACID Transactions
 https://www.databricks.com/glossary/acid-transactions
+- Pattern: SAGA
+https://microservices.io/patterns/data/saga.html
+https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
