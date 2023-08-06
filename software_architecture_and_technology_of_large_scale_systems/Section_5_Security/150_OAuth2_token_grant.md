@@ -1,3 +1,3 @@
 # OAuth2 Token Grant
 
-![Alt text](image-22.png)
+![Alt text](./images/image-22.png)

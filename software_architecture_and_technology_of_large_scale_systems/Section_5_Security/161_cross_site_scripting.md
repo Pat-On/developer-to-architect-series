@@ -1,3 +1,3 @@
 # Cross Site Scripting - XSS
 
-![Alt text](image-32.png)
+![Alt text](./images/image-32.png)

@@ -1,3 +1,3 @@
 # Credential Verification
 
-![Alt text](image-15.png) 
+![Alt text](./images/image-15.png) 

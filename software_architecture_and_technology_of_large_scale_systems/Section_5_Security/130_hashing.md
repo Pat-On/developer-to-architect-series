@@ -13,4 +13,4 @@
 - Hashing is a one-way algorithm
 - Slightest change in the text changes the hash value drastically
 
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)

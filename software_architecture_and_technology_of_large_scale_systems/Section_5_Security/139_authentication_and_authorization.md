@@ -1,3 +1,3 @@
 # Authentication and Authorization
 
-![Alt text](image-12.png)
+![Alt text](./images/image-12.png)

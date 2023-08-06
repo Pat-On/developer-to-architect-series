@@ -1,4 +1,4 @@
 # Authorization
 
-![Alt text](image-21.png)
+![Alt text](./images/image-21.png)
 

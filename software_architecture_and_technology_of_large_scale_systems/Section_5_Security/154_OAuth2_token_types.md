@@ -1,3 +1,3 @@
 # OAuth2 Token Types
 
-![Alt text](image-26.png)
+![Alt text](./images/image-26.png)

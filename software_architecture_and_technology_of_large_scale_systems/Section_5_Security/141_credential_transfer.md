@@ -1,4 +1,4 @@
 # Credential Transfer
 
-![Alt text](image-14.png)
+![Alt text](./images/image-14.png)
 

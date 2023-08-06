@@ -1,3 +1,3 @@
 # Securing a Software System
 
-![Alt text](image-30.png)
+![Alt text](./images/image-30.png)

@@ -1,3 +1,3 @@
 # SQL Injection
 
-![Alt text](image-31.png)
+![Alt text](./images/image-31.png)

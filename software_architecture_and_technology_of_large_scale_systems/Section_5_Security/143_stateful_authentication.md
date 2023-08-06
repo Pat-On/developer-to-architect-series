@@ -4,4 +4,4 @@
 - session can be revoked by removing it from session storage
 
 
-![Alt text](image-16.png)
+![Alt text](./images/image-16.png)
