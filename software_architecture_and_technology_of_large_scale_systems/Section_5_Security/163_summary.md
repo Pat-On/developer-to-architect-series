@@ -1,0 +1,14 @@
+# Summary 
+- Encryption
+  - Symmetric
+  - public key
+  - hashing
+  - digital signatures and certificates
+- Secure Data transfer over network - HTTPS with SSL/TLS
+- Identity Management
+  - authentication
+    - credentials - storage, transfer, verification
+  - authorization
+    - role based authorization
+    - oauth2
+- Common Vulnerabilities
