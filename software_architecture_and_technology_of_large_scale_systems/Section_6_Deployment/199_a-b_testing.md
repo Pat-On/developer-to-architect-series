@@ -1,3 +1,3 @@
 # A/B Testing
 
-![Alt text](image-29.png)
+![Alt text](./images/image-29.png)

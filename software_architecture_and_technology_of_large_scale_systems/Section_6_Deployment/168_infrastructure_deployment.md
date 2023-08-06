@@ -17,10 +17,10 @@
 - DNS and discovery services
 - storage
   - content
-  - vm / container images
+  - vm / container ./images/images
   - backups
   - logs
 - mail servers
 - cdn
 
-![Alt text](image-2.png)
+![Alt text](./images/image-2.png)

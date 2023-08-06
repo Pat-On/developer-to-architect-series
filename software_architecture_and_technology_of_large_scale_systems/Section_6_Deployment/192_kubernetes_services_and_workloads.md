@@ -1,3 +1,3 @@
 # Deployment with Kubernetes
 
-![Alt text](image-23.png)
+![Alt text](./images/image-23.png)

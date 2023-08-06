@@ -1,3 +1,3 @@
 # Naming And Addressing
 
-![Alt text](image-16.png)
+![Alt text](./images/image-16.png)

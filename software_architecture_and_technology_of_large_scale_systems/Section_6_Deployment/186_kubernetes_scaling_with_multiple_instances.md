@@ -1,3 +1,3 @@
 # Scaling to multiple instances
 
-![Alt text](image-17.png)
+![Alt text](./images/image-17.png)

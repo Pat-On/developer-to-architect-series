@@ -1,3 +1,3 @@
 # Provisioning and Configuration
 
-![Alt text](image-12.png)
+![Alt text](./images/image-12.png)

@@ -1,3 +1,3 @@
 # Rolling Updates
 
-![Alt text](image-25.png)
+![Alt text](./images/image-25.png)

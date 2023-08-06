@@ -1,3 +1,3 @@
 # Deployment With Virtual Machines
 
-![Alt text](image-7.png)
+![Alt text](./images/image-7.png)

@@ -3,4 +3,4 @@
 - infrastructure deployment
 - operations
 
-![Alt text](image.png)
+![Alt text](./images/image.png)

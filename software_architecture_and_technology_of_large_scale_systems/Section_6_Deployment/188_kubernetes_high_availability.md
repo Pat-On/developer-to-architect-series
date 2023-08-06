@@ -1,3 +1,3 @@
 # High Availability
 
-![Alt text](image-19.png)
+![Alt text](./images/image-19.png)
