@@ -21,3 +21,6 @@ https://www.databricks.com/glossary/acid-transactions
 - Pattern: SAGA
 https://microservices.io/patterns/data/saga.html
 https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
+- LDAP
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
+https://www.youtube.com/watch?v=SK8Yw-CiRHk
