@@ -24,3 +24,5 @@ https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/sag
 - LDAP
 https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
 https://www.youtube.com/watch?v=SK8Yw-CiRHk
+- Servlets
+https://www.geeksforgeeks.org/introduction-java-servlets/
