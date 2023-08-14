@@ -7,8 +7,8 @@
 - Generate Dynamic Content
   - not the best
 - Act as a Reverse Proxy
-  - Excellent
+  - Excellent - wes design for this purpose
 - Cache Content
   - Good
 
-![Alt text](image-6.png)
+![Alt text](image-6.png)0
