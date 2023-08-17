@@ -13,4 +13,4 @@
 - index maintained in memory
   - occasionally flushed to disk
 
-![Alt text](image-45.png)
+![Alt text](./images/image-45.png)

@@ -15,4 +15,4 @@
 - data store mode requires fixed number of nodes
   - cache mode is suitable for node scaling
 
-![Alt text](image-19.png)
+![Alt text](./images/image-19.png)

@@ -1,4 +1,4 @@
 # Jetty and Spring
 
-![Alt text](image-9.png)
+![Alt text](./images/image-9.png)
 

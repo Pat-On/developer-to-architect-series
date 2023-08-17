@@ -13,4 +13,4 @@
   - supports data types
 - Users can specify mapping between terms and documents
 
-![Alt text](image-44.png)
+![Alt text](./images/image-44.png)

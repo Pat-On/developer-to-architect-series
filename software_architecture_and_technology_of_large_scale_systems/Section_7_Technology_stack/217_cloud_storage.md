@@ -13,4 +13,4 @@
   - multiple physical locations
 - static website creation``
 
-![Alt text](image-13.png)
+![Alt text](./images/image-13.png)

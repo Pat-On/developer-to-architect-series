@@ -1,3 +1,3 @@
 # Logstash Architecture
 
-![Alt text](image-41.png)
+![Alt text](./images/image-41.png)

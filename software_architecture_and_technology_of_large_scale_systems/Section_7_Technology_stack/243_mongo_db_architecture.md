@@ -14,4 +14,4 @@
   - javascript->node.js->mongo
     - json format
 
-![Alt text](image-39.png)
+![Alt text](./images/image-39.png)

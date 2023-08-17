@@ -8,4 +8,4 @@
 - an operation on a single document is atomic
   - 2 PC for multiple documents
 
-![Alt text](image-38.png)
+![Alt text](./images/image-38.png)

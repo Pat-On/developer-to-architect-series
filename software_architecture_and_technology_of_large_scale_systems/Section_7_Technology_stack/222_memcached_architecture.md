@@ -12,4 +12,4 @@
   - use large number of nodes with less data
 - data is lost if a node crashes or restarted
 
-![Alt text](image-18.png)
+![Alt text](./images/image-18.png)

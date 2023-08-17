@@ -13,4 +13,4 @@
 - R/W ops atomic for a key
 - Timestamps for versioning
 
-![Alt text](image-33.png)
+![Alt text](./images/image-33.png)

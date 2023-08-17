@@ -1,5 +1,5 @@
 # NodeJS - EVENT Loop
 
-![Alt text](image-11.png)
+![Alt text](./images/image-11.png)
 
 blue color - OS

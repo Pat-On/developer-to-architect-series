@@ -1,6 +1,6 @@
 # Apache Webserver Scalability
 
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)
 
 sum:
 - as a load balancer not so good because of the ram - cost

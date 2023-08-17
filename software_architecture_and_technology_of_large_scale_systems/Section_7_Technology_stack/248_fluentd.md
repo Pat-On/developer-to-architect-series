@@ -13,4 +13,4 @@
 - + Docker Logging
   - Picks log events from container console
 
-![Alt text](image-43.png)
+![Alt text](./images/image-43.png)

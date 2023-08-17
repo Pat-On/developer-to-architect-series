@@ -13,4 +13,4 @@
   - timestamps
   - business rules
 
-![Alt text](image-37.png)
+![Alt text](./images/image-37.png)

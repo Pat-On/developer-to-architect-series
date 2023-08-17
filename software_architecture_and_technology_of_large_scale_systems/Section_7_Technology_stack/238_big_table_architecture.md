@@ -1,3 +1,3 @@
 # Big Table Architecture
 
-![Alt text](image-34.png)
+![Alt text](./images/image-34.png)

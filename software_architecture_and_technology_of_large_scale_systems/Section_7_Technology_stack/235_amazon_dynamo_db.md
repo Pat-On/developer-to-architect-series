@@ -16,4 +16,4 @@
     - can be used for range query <, >, like
   - r/w ops for a key are atomic
 
-![Alt text](image-31.png)
+![Alt text](./images/image-31.png)

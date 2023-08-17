@@ -12,4 +12,4 @@
   - large blocks of data - 64MB
 - replication for reliability
 
-![Alt text](image-46.png)
+![Alt text](./images/image-46.png)

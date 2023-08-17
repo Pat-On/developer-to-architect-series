@@ -11,4 +11,4 @@
 - Cache Content
   - Good
 
-![Alt text](image-6.png)0
+![Alt text](./images/image-6.png)0

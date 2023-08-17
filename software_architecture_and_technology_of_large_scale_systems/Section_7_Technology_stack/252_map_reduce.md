@@ -13,4 +13,4 @@
   - groups related information
   - computes aggregate data
 
-![Alt text](image-47.png)
+![Alt text](./images/image-47.png)

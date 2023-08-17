@@ -8,4 +8,4 @@
   - saves memory
   - avoids context switching
 
-![Alt text](image-10.png)
+![Alt text](./images/image-10.png)

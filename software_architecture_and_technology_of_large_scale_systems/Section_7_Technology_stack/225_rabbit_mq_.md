@@ -13,6 +13,6 @@
   - Service integration
   - message buffer
   
-  ![Alt text](image-20.png)
-  ![Alt text](image-21.png)
-  ![Alt text](image-22.png)
+  ![Alt text](./images/image-20.png)
+  ![Alt text](./images/image-21.png)
+  ![Alt text](./images/image-22.png)

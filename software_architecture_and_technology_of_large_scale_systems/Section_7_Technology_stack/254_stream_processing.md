@@ -20,4 +20,4 @@
 
 
 
-![Alt text](image-49.png)
+![Alt text](./images/image-49.png)

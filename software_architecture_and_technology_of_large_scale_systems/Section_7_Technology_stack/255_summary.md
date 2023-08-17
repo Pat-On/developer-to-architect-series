@@ -1,3 +1,3 @@
 # Summary
 
-![Alt text](image-50.png)
+![Alt text](./images/image-50.png)

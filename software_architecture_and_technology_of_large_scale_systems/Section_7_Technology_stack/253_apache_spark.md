@@ -14,4 +14,4 @@
   - Graph Processing
   - Streaming
 
-![Alt text](image-48.png)
+![Alt text](./images/image-48.png)

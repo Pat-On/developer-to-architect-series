@@ -14,4 +14,4 @@
     - clients can connect to any node
     - all publish consume operations first go to master
 
-![Alt text](image-23.png)
+![Alt text](./images/image-23.png)

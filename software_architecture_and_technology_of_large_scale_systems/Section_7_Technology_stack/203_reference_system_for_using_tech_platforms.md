@@ -1,6 +1,6 @@
 # Reference System
 
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 
 Web Layer - blue

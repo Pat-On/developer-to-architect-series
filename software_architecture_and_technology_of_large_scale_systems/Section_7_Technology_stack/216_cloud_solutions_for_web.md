@@ -6,4 +6,4 @@
   - build-in scalability and reliability
   - global deployment solutions
 
-![Alt text](image-12.png)
+![Alt text](./images/image-12.png)

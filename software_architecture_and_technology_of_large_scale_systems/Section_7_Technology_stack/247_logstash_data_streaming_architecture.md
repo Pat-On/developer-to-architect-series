@@ -5,4 +5,4 @@
 - Fault Tolerance - needs reliable disk storage (RAID, Cloud Persistent disks)
 - Use Kafka as buffer - For heavy load that Logstash Queue cannot handle
 
-![Alt text](image-42.png)
+![Alt text](./images/image-42.png)

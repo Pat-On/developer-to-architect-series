@@ -4,4 +4,4 @@
 - persistent connections for cache miss
 - lower load on the backend
 
-![Alt text](image-14.png)
+![Alt text](./images/image-14.png)
